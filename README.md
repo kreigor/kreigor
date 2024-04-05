@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and MongoDB in my free time.
 - Python dev.
 - Former Java and C# dev.
-- I code on a MacBook Pro and use either VSCode or NeoVIM.
+- I code on a MacBook Pro and use either PyCharm, VSCode or NeoVIM.
 - My favorite operating systems are MacOS, Linux and Unix.
 
 ---
